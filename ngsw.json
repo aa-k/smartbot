@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "/smartbot/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/smartbot/favicon.ico",
+        "/smartbot/index.html",
+        "/smartbot/inline.4874a12ced86a7a40f24.bundle.js",
+        "/smartbot/main.4b89ddc6282d08525dce.bundle.js",
+        "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js",
+        "/smartbot/styles.9c0ad738f18adc3d19ed.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/smartbot/inline.4874a12ced86a7a40f24.bundle.js": "89fde0c244df3303be96a4c8b4b39187e4b5bb39",
+    "/smartbot/main.4b89ddc6282d08525dce.bundle.js": "1d771e2236fca7a7d914c833dd543d4640f2ee3e",
+    "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "/smartbot/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
+    "/smartbot/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/smartbot/index.html": "c457f114f0187c44a49b8841cb85d14fedf6f388"
+  }
+}
