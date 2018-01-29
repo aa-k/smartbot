@@ -8,8 +8,8 @@
       "updateMode": "prefetch",
       "urls": [
         "/smartbot/index.html",
-        "/smartbot/inline.0c76a96d7f186aba9b49.bundle.js",
-        "/smartbot/main.1bf62eed3f454813f9ce.bundle.js",
+        "/smartbot/inline.bee15f2e1158ecfb292e.bundle.js",
+        "/smartbot/main.ed260b84969fd2c0f2cd.bundle.js",
         "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js",
         "/smartbot/styles.9c0ad738f18adc3d19ed.bundle.css"
       ],
@@ -20,6 +20,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/smartbot/assets/bot.png",
         "/smartbot/assets/tux_256.png",
         "/smartbot/assets/tux_32.png",
         "/smartbot/assets/tux_48.png",
@@ -30,14 +31,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/smartbot/inline.0c76a96d7f186aba9b49.bundle.js": "f6b9d701db5e120cb058fac8eafd88a24ffa3bb6",
+    "/smartbot/inline.bee15f2e1158ecfb292e.bundle.js": "6eaa31d625207ad50bcc587d11fbb97ad4edc8d3",
+    "/smartbot/assets/bot.png": "41202df9aa2cf87ee6c82511f52a7777537004f6",
+    "/smartbot/main.ed260b84969fd2c0f2cd.bundle.js": "7e49722ee4b65bec3a05ff67c43cfd3ea2965003",
     "/smartbot/assets/tux_256.png": "943a0717fdf92184fa04dc24bf1857e98afe0710",
-    "/smartbot/main.1bf62eed3f454813f9ce.bundle.js": "09aa4ab0cc4af708f60cb8cafc4ef4298b3fb1cc",
-    "/smartbot/assets/tux_32.png": "4d1b42a32dbadfb225e2a7b6a5df68a236a4cfa0",
     "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
-    "/smartbot/assets/tux_48.png": "89d518eff1fd95109553b2e01599c3d585663f38",
+    "/smartbot/assets/tux_32.png": "4d1b42a32dbadfb225e2a7b6a5df68a236a4cfa0",
     "/smartbot/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
-    "/smartbot/assets/tux_64.png": "0ce3673500be0368b302661cd7b3b479002c6cee",
-    "/smartbot/index.html": "9284c66a210eef77bc2f78ee139563e5d586dbe5"
+    "/smartbot/assets/tux_48.png": "89d518eff1fd95109553b2e01599c3d585663f38",
+    "/smartbot/index.html": "36bebfc94b9afdbbee0683227362ff65ea1e1d27",
+    "/smartbot/assets/tux_64.png": "0ce3673500be0368b302661cd7b3b479002c6cee"
   }
 }
