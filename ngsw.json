@@ -7,7 +7,6 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/smartbot/favicon.ico",
         "/smartbot/index.html",
         "/smartbot/inline.075aa73f937a3745a215.bundle.js",
         "/smartbot/main.366e490b4c015d6f8f8f.bundle.js",
@@ -20,17 +19,25 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "/smartbot/assets/tux_256.png",
+        "/smartbot/assets/tux_32.png",
+        "/smartbot/assets/tux_48.png",
+        "/smartbot/assets/tux_64.png"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/smartbot/inline.075aa73f937a3745a215.bundle.js": "d528e47a719c58646b6c587aa34a11fd54ad70c8",
+    "/smartbot/assets/tux_256.png": "943a0717fdf92184fa04dc24bf1857e98afe0710",
     "/smartbot/main.366e490b4c015d6f8f8f.bundle.js": "0e5c67933d0b9d2bdb27895dfe1410986d94fd3b",
+    "/smartbot/assets/tux_32.png": "4d1b42a32dbadfb225e2a7b6a5df68a236a4cfa0",
     "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "/smartbot/assets/tux_48.png": "89d518eff1fd95109553b2e01599c3d585663f38",
     "/smartbot/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
-    "/smartbot/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/smartbot/index.html": "836fb0795b4839b169ac6daf34ea653faa439490"
+    "/smartbot/assets/tux_64.png": "0ce3673500be0368b302661cd7b3b479002c6cee",
+    "/smartbot/index.html": "27c5d38a15a213bc66c5ad5850c60a462e16b8d9"
   }
 }
