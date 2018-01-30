@@ -11,7 +11,7 @@
         "/smartbot/inline.a3e4e5c540f6c6dd79df.bundle.js",
         "/smartbot/main.faf4325c0c2d9582a540.bundle.js",
         "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js",
-        "/smartbot/styles.3e8f8d539cd615deb6f3.bundle.css"
+        "/smartbot/styles.b0fbc2d078ad8d966e98.bundle.css"
       ],
       "patterns": []
     },
@@ -37,9 +37,9 @@
     "/smartbot/assets/tux_256.png": "943a0717fdf92184fa04dc24bf1857e98afe0710",
     "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
     "/smartbot/assets/tux_32.png": "4d1b42a32dbadfb225e2a7b6a5df68a236a4cfa0",
-    "/smartbot/styles.3e8f8d539cd615deb6f3.bundle.css": "e334653bf286795c594ec8fab1c7293531c855c9",
+    "/smartbot/styles.b0fbc2d078ad8d966e98.bundle.css": "40b493b5bb622fe6aab5e7573618c68ad0cf3dd9",
     "/smartbot/assets/tux_48.png": "89d518eff1fd95109553b2e01599c3d585663f38",
-    "/smartbot/index.html": "503ff699fdf2a1665c5785522bd5861326b70f95",
+    "/smartbot/index.html": "0aa5375613c08c8eee69011471455cec668494bf",
     "/smartbot/assets/tux_64.png": "0ce3673500be0368b302661cd7b3b479002c6cee"
   }
 }
