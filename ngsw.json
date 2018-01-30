@@ -8,10 +8,10 @@
       "updateMode": "prefetch",
       "urls": [
         "/smartbot/index.html",
-        "/smartbot/inline.f1b461c49a77cbc34d4d.bundle.js",
-        "/smartbot/main.ec496bc09d371eedd2a6.bundle.js",
+        "/smartbot/inline.12afbc950783e691610b.bundle.js",
+        "/smartbot/main.8aa0b37f1c319f2f3562.bundle.js",
         "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js",
-        "/smartbot/styles.0c5dad92482d9a7c7c25.bundle.css"
+        "/smartbot/styles.65027555cc9008d45095.bundle.css"
       ],
       "patterns": []
     },
@@ -20,26 +20,26 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/smartbot/assets/bot.png",
         "/smartbot/assets/tux_256.png",
         "/smartbot/assets/tux_32.png",
         "/smartbot/assets/tux_48.png",
-        "/smartbot/assets/tux_64.png"
+        "/smartbot/assets/tux_64.png",
+        "/smartbot/assets/tux_bot_256.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/smartbot/inline.f1b461c49a77cbc34d4d.bundle.js": "0517fd83e20cad06b43631ef3502c98d091bf291",
-    "/smartbot/assets/bot.png": "41202df9aa2cf87ee6c82511f52a7777537004f6",
-    "/smartbot/main.ec496bc09d371eedd2a6.bundle.js": "3e52947b2c357e7e73477aee810daf1bbb87637e",
+    "/smartbot/inline.12afbc950783e691610b.bundle.js": "7e07f1263d5486e81028854fd05635c31256fc5d",
     "/smartbot/assets/tux_256.png": "943a0717fdf92184fa04dc24bf1857e98afe0710",
-    "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "/smartbot/main.8aa0b37f1c319f2f3562.bundle.js": "1f1eb9821e16a8cc00742f047e3f8c9e5f267cbb",
     "/smartbot/assets/tux_32.png": "4d1b42a32dbadfb225e2a7b6a5df68a236a4cfa0",
-    "/smartbot/styles.0c5dad92482d9a7c7c25.bundle.css": "534b458f99b4d0bb90c2cf2c4bb3703ef44a52bf",
+    "/smartbot/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
     "/smartbot/assets/tux_48.png": "89d518eff1fd95109553b2e01599c3d585663f38",
-    "/smartbot/index.html": "3e370e98bd96d0e1ea626f22d448afb02ebff078",
-    "/smartbot/assets/tux_64.png": "0ce3673500be0368b302661cd7b3b479002c6cee"
+    "/smartbot/styles.65027555cc9008d45095.bundle.css": "55cdfe4b6a191b77458abeaa70586a55f7993dfc",
+    "/smartbot/assets/tux_64.png": "0ce3673500be0368b302661cd7b3b479002c6cee",
+    "/smartbot/index.html": "cf78f650eeca86bb0426943df1e2bba9cc0055b9",
+    "/smartbot/assets/tux_bot_256.png": "ab9117d3d8922541336022c9ecfdb7f10e06499e"
   }
 }
