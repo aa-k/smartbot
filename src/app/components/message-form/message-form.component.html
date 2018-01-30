@@ -1,6 +1,4 @@
-<div class="chatcontrol">
-  <form>
-    <input type="text" class="chatinput" [(ngModel)]="message.content" [ngModelOptions]="{standalone: true}"/>
-    <input type="submit" class="sendbtn" (click)="sendMessage()" value="Send" />
-  </form>
-</div>
+<form>
+  <input type="text" class="chatinput" [(ngModel)]="message.content" [ngModelOptions]="{standalone: true}" />
+  <input type="submit" class="sendbtn" (click)="sendMessage()" value="Send" />
+</form>

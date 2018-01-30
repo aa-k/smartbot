@@ -22,7 +22,7 @@ export class MessageFormComponent {
       this.message.timestamp = new Date();
       this.messages.push(this.message);
       this._df.getResponse(this.message.content).subscribe(res => {
-        this.messages.push(new Message(res.result.fulfillment.speech, 'assets/bot.png', false, res.timestamp));
+        this.messages.push(new Message(res.result.fulfillment.speech, 'assets/tux_bot_256.png', false, res.timestamp));
         this._df.onMessageAdded.next();
       });
       this.message = new Message('', 'assets/tux_32.png', true);

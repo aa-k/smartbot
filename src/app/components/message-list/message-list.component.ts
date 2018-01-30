@@ -1,5 +1,5 @@
 
-import { Component, OnInit, Input, ViewChild, ElementRef, OnDestroy, ChangeDetectorRef, ChangeDetectionStrategy } from '@angular/core';
+import { Component, OnInit, Input, OnDestroy, ChangeDetectorRef, ChangeDetectionStrategy } from '@angular/core';
 import { Message } from 'app/models';
 import { DialogflowService } from 'app/services/dialogflow.service';
 import { Subscription } from 'rxjs/Subscription';

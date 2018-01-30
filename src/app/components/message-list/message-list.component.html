@@ -1,5 +1,4 @@
-<div class="chatlist">
-  <ul class="list-group">
-    <app-message-item *ngFor="let msg of messages" [message]="msg"></app-message-item>
-  </ul>
+<!-- This div is needed, because the component's flex-direction is reversed so we populate our messages list inside the div -->
+<div>
+  <app-message-item *ngFor="let msg of messages" [message]="msg"></app-message-item>
 </div>

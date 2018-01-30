@@ -1,23 +1,60 @@
-.message {
-  font-size: 1em;
-  font-style: italic;
-  font-weight: 400;
-}
+:host {
+  display: block;
+  padding: 5px;
+  clear: both;
 
-.timeform {
-  float: left;
-  width: 100%;
-
-  i {
-    margin-left: 20px;
+  .fly {
+    display: inline-block;
+    vertical-align: top;
   }
 
-  .timestamp {
+  &.from-me {
+
+    .avatar {
+      float: right;
+      margin-left: 20px;
+      margin-right: 0;
+    }
+
+    .arrow {
+      float: right;
+      border-left: 10px solid lightgray;
+      border-right: none;
+    }
+
+    .message {
+      float: right;
+    }
+  }
+
+  .avatar {
+    width: 50px;
+    border-radius: 25px;
+    background: darkturquoise;
+    margin-right: 20px;
+  }
+
+  .arrow {
+    width: 0;
+    height: 0;
+    margin-top: 5px;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid lightgray;
+  }
+
+  .message {
+    background: lightgrey;
+    width: calc(90vw - 90px);
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+  .time {
+    text-align: right;
     font-size: 0.6em;
+    font-style: italic;
+    color: grey;
+    margin-top: 5px;
   }
-}
-
-.avatar {
-  width: 50px;
-  margin-right: 20px;
 }

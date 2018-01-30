@@ -13,8 +13,6 @@ export class AppComponent {
 
   constructor() {
     this.message = new Message('', 'assets/tux_32.png', true);
-    this.messages = [
-      new Message('Welcome to chatbot universe', 'assets/bot.png', false, new Date())
-    ];
+    this.messages = [new Message('Welcome to chatbot universe', 'assets/tux_bot_256.png', false, new Date())];
   }
 }

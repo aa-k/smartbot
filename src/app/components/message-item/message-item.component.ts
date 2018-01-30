@@ -1,5 +1,5 @@
 
-import { Component, Input, ChangeDetectionStrategy } from '@angular/core';
+import { Component, Input, ChangeDetectionStrategy, HostBinding } from '@angular/core';
 import { Message } from 'app/models';
 @Component({
   selector: 'app-message-item',
@@ -8,6 +8,10 @@ import { Message } from 'app/models';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class MessageItemComponent {
+  @HostBinding('class.from-me')
+  public get isMyMessage(): boolean {
+    return this.message.me;
+  }
   @Input('message')
   public message: Message;
 }
