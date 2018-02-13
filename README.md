@@ -1,3 +1,3 @@
 # Smartbot
 
-https://aa-k.github.io/smartbot/
+https://aytacworld.github.io/smartbot/
